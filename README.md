@@ -1,7 +1,7 @@
 # Hi there, I'm Ru! 👋
 
 I'm a **Cloud & DevOps Engineer** focused on building reliable cloud infrastructure, automated CI/CD pipelines, and cloud-native AI systems.
-
+Chat with my **[AI Digital Twin](https://ai-profile-agent.lukas.cloud-ip.cc/)** to explore more details!
 ---
 
 ### 🛠️ Tech Stack & Skills
