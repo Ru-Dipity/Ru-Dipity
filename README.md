@@ -18,8 +18,8 @@ Chat with my **[AI Digital Twin](https://ai-profile-agent.lukas.cloud-ip.cc/)** 
 
 ### 🚀 Featured Projects
 
-* 🤖 **[AI Profile Agent](https://github.com/Ru-Dipity/AI-Profile-Agent)**
-  A conversational AI digital twin built on AWS serverless architecture (Lambda, API Gateway, S3) with multi-model routing between Bedrock and Gemini. Automated deployment using Terraform and GitHub Actions with OIDC.
+* 🤖 **[AI Profile Agent](https://github.com/Ru-Dipity/AI-Profile-Agent-Demo)**
+  A conversational AI digital twin built on AWS serverless architecture (Lambda, API Gateway, S3) with multi-model routing between Bedrock and Gemini. Automated deployment using Terraform and GitHub Actions with OIDC. The official version contains personal information that has been moved to the `private` repo, so I am providing a demo version here.
 
 * 🎾 **[Tennis Tournament Control Center](https://github.com/Ru-Dipity/Tennis-Score-Board)**
   A full-stack, cloud-native scoring and tournament hub featuring real-time GraphQL live sync (AWS AppSync), DynamoDB, Cognito authentication, and automated AWS CDK provisioning.
